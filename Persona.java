@@ -4,6 +4,7 @@ class Persona {
 	//Declaración de variables
 	//Diseño base
 	//Operadores permitidos
-	// = Asignación 
+	// = Asignación
+	// +, -, +, /, operadores aritmeticos 
 }
 
