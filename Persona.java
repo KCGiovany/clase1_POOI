@@ -15,6 +15,6 @@ class Persona {
            if        while   unsigned */
 
         //Variables 
-	//Global
+	//Global: Se declaran fuera de la función
+	//Local: Son definidas dentro de una función 
 }
-
