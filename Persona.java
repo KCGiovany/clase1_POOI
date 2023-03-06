@@ -16,5 +16,6 @@ class Persona {
 
         //Variables 
 	//Global: Se declaran fuera de la función
-	//Local: Son definidas dentro de una función 
+	//Local: Son definidas dentro de una función
+end document 
 }
