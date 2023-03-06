@@ -1,6 +1,9 @@
 //Autor: Herrera Lopez Giovany
 
 class Persona {
-	//Declaración de variables 
+	//Declaración de variables
+	//Diseño base
+	//Operadores permitidos
+ 
 }
 
