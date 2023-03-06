@@ -6,6 +6,8 @@ class Persona {
 	//Operadores permitidos
 	// = Asignación
 	// +, -, +, /, operadores aritmeticos
-	//Operadores de incremetro y decremento ++, -- 
+	//Operadores de incremetro y decremento ++, --
+	//Operadores Logircos, &&(y), ||(o), !(No)
+	 
 }
 
