@@ -5,6 +5,7 @@ class Persona {
 	//Diseño base
 	//Operadores permitidos
 	// = Asignación
-	// +, -, +, /, operadores aritmeticos 
+	// +, -, +, /, operadores aritmeticos
+	//Operadores de incremetro y decremento ++, -- 
 }
 
