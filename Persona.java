@@ -8,6 +8,6 @@ class Persona {
 	// +, -, +, /, operadores aritmeticos
 	//Operadores de incremetro y decremento ++, --
 	//Operadores Logircos, &&(y), ||(o), !(No)
-	//Operadores relacionales 
+	//Operadores relacionales <, <=, <, >=, ==, != 
 }
 
