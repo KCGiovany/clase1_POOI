@@ -13,5 +13,8 @@ class Persona {
            break     case    char 
            const     float   for
            if        while   unsigned */
+
+        //Variables 
+	//Global
 }
 
