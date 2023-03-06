@@ -12,6 +12,6 @@ class Persona {
 	/* Palabras reservadas   
            break     case    char 
            const     float   for
-               */
+           if    */
 }
 
